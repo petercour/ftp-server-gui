@@ -1,4 +1,4 @@
-# ubuntu app installer demo (apt-get)
+# FTP server gui with PyQt
 # https://pythonbasics.org/pyqt/
 
 from PyQt5 import QtWidgets, uic
